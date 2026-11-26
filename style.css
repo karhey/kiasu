@@ -32,7 +32,7 @@ body {
 
 /* Image */
 .app-image {
-    width: 70%;
+    width: 100%;
     max-width: none;
     height: auto;
     display: block;
